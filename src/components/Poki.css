@@ -1,0 +1,6 @@
+.card-body{
+    padding: 8px !important;
+}
+.card:hover{
+    border: 2px solid black;
+}
